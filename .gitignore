@@ -1,0 +1,8 @@
+*
+!test-vault/
+!test-vault/**
+!cryptomator.py
+!requirements.txt
+!.gitignore
+!LICENSE
+!README.md
